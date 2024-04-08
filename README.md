@@ -28,6 +28,7 @@ The app is built using Kotlin in Android Studio. It utilizes a `RelativeLayout` 
 - Background image: Canva.com (https://www.canva.com/)
 - Historical figure deaths: [Daily Infographic](https://www.dailyinfographic.com/famous-figure-deaths)
 - GitHub: Help with push issues and version control.
+- Stackoverflow: Help with syntax and errors (https://stackoverflow.com/)
 
 ## Future Enhancements
 1. **Dynamic Data**: Load historical figures and their ages from an external data source for scalability.
