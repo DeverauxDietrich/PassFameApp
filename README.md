@@ -1,7 +1,7 @@
 # PassFameApp
 
 ## Overview
-PassFameApp is a simple Android application built for educational purposes. It allows users to input an age and find a famous person who passed away at that age. The app includes a list of historical figures and their ages at the time of death, providing an interactive and engaging way for users to learn about history.
+PassFameApp is a simple Android application. It allows users to input an age and find a famous person who passed away at that age. The app includes a list of historical figures and their ages at the time of death, providing an interactive and engaging way for users to learn about history.
 
 ![Alt text](images/homepage.png)
 ![Alt text](images/results.png)
