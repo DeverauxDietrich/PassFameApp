@@ -25,7 +25,7 @@ The app is built using Kotlin in Android Studio. It utilizes a `RelativeLayout` 
 4. **Error Handling**: The app provides feedback for invalid age inputs, encouraging users to enter a valid age between 20 and 100.
 
 ## References
-- Background image: Canva.com (link to be inserted)
+- Background image: Canva.com (https://www.canva.com/)
 - Historical figure deaths: [Daily Infographic](https://www.dailyinfographic.com/famous-figure-deaths)
 - GitHub: Help with push issues and version control.
 
